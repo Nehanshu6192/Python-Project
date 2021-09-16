@@ -1,1 +1,0 @@
-completed git and github learning from bash.
